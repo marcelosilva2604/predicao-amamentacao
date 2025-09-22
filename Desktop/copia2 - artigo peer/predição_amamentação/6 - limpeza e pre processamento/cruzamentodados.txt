@@ -1,0 +1,358 @@
+CRUZAMENTO ENTRE DATASET E DICIONÁRIO ENANI
+============================================================
+Data: 2025-09-03 16:49:07
+Total de colunas no dataset: 346
+Colunas encontradas no dicionário: 345
+Colunas não encontradas: 1
+Taxa de sucesso: 99.7%
+
+============================================================
+DETALHES:
+============================================================
+Coluna: aleitamento_materno_exclusivo - Descrição: Não encontrada no dicionário
+Coluna: id_anon - Descrição: id_anon - Código de identificação da criança
+Coluna: id_domic_anon - Descrição: id_domic_anon - Código de identificação do domicilio
+Coluna: id_resp_anon - Descrição: id_resp_anon - Código de identificação do responsável
+Coluna: a00_regiao - Descrição: a00_regiao - Macrorregião 
+Coluna: a06_domicilio - Descrição: a06_domicilio - número do domicílio
+Coluna: a11_situacao - Descrição: a11_situacao - Situação do setor do domicílio
+Coluna: b00_numero - Descrição: b00_numero - número do morador do domicílio
+Coluna: b02_sexo - Descrição: b02 - Sexo da criança 
+Coluna: b03_relacao - Descrição: b03_relacao - Relação da criança com o responsável pelo domicílio
+Coluna: b04_idade - Descrição: b04_idade - Idade em anos completos da criança
+Coluna: b05_data - Descrição: b05_data - Data de nascimento da criança
+Coluna: b05a_idade_em_meses - Descrição: b05a_idade_em_meses - Idade em meses da criança 
+Coluna: b06_numero_mae - Descrição: b06_numero_mae - Número da mãe biológica na lista de moradores
+Coluna: b06b_mae_responsavel - Descrição: b06b_mae_responsavel - Número da mãe ou responsável na lista de moradores
+Coluna: bb04_idade_da_mae - Descrição: bb04_idade_da_mae - Idade em anos completos da mãe
+Coluna: bbb08_numero_mais_novo1 - Descrição: bbb08_numero_mais_novo1 -  Identificação do filho mais novo na lista de moradores
+Coluna: bbb08a_numero_mais_velho1 - Descrição: bbb08a_numero_mais_velho1 - Identificação do filho mais velho na lista de moradores
+Coluna: d01_cor - Descrição: d01_cor - Cor ou raça da criança      
+Coluna: d02_matriculado - Descrição: d02_matriculado - A criança está matriculada em creche ou escola?
+Coluna: datablb - Descrição: datablb - Data de aplicação do questionário 
+Coluna: estrato_sel_anon - Descrição: estrato_sel_anon - estrato
+Coluna: f001_esta_usando - Descrição: f001_esta_usando - A criança ESTÁ USANDO algum tipo de vitamina ou mineral 
+Coluna: g001_usou - Descrição: g001_usou - A criança usou nos últimos 6 meses algum tipo de vitamina ou mineral 
+Coluna: g150_vitaminas - Descrição: g150_vitaminas - A criança recebeu, nos últimos 6 meses, no posto de saúde ou no dia da vacinação, uma dose de alguma dessas vitaminas?
+Coluna: g151_sache - Descrição: g151_sache - A criança recebeu, nos últimos 6 meses, esse produto junto com a comida da creche? Foi apresentada a foto do sachê
+Coluna: grupo10 - Descrição: grupo 10 - Conjunto de crianças que possuem os parâmetros finais: hemoglobina, ácido fólico, vitamina B12, ferritina e Proteína C Reativa, sendo obrigatoriamente avaliados no mesmo momento, ou seja, na coleta ou na recoleta.
+Coluna: grupo11 - Descrição: grupo 11 - Conjunto de crianças que possuem os parâmetros finais: hemoglobina, ácido fólico, vitamina B12, ferritina e Proteína C Reativa, sendo obrigatoriamente avaliados no mesmo momento, ou seja, na coleta ou na recoleta., exceto a hemoglobina, com intervalo entre coleta e recoleta de até 30 dias. 
+Coluna: grupo12 - Descrição: grupo 12 - Conjunto de crianças que possuem o parâmetro final hemograma
+Coluna: grupo13 - Descrição: grupo 13 - Conjunto de crianças que possuem o parâmetro final ácido fólico
+Coluna: grupo14 - Descrição: grupo 14 - Conjunto de crianças que possuem o parâmetro final ferritina
+Coluna: grupo15 - Descrição: grupo 15 - Conjunto de crianças que possuem o parâmetro final vitamina B12
+Coluna: grupo16 - Descrição: grupo 16 - Conjunto de crianças que possuem o parâmetro final vitamina D
+Coluna: grupo17 - Descrição: grupo 17 - Conjunto de crianças que possuem o parâmetro final vitamina A
+Coluna: grupo18 - Descrição: grupo 18 - Conjunto de crianças que possuem o parâmetro final vitamina B1
+Coluna: grupo19 - Descrição: grupo 19 - Conjunto de crianças que possuem o parâmetro final vitamina B6
+Coluna: grupo1a - Descrição: grupo1a - Conjunto de crianças que possuem os parâmetros finais:  hemoglobina, ferritina e PCR, avaliados no mesmo momento, na coleta ou na recoleta
+Coluna: grupo1b - Descrição: grupo1b - Conjunto de crianças que possuem os parâmetros finais: hemoglobina, proteína C Reativa (PCR) e ferritina, sendo obrigatoriamente a ferritina e PCR avaliadas no mesmo momento, assim como a ferritina e hemoglobina
+Coluna: grupo1c - Descrição: grupo 1c - Conjunto de crianças que possuem os parâmetros finais: proteína C Reativa (PCR) e ferritina, sendo obrigatoriamente a ferritina e PCR avaliadas no mesmo momento, ou seja, na coleta ou na recoleta.  
+Coluna: grupo2 - Descrição: grupo 2 - Conjunto de crianças que possuem os parâmetros finais: hemoglobina e vitamina A, sendo obrigatoriamente avaliados no mesmo momento, ou seja, na coleta ou na recoleta.
+Coluna: grupo20 - Descrição: grupo 20 - Conjunto de crianças que possuem o parâmetro final vitamina E
+Coluna: grupo21 - Descrição: grupo 21 - Conjunto de crianças que possuem o parâmetro final zinco
+Coluna: grupo22 - Descrição: grupo 22 - Conjunto de crianças que possuem o parâmetro final selênio
+Coluna: grupo3 - Descrição: grupo 3 - Conjunto de crianças que possuem os parâmetros finais: hemoglobina, vitamina A,  vitamina D e zinco, sendo obrigatoriamente avaliados no mesmo momento, ou seja, na coleta ou na recoleta.
+Coluna: grupo4 - Descrição: grupo 4 - Conjunto de crianças que possuem os parâmetros finais: proteína C Reativa (PCR) e zinco, sendo obrigatoriamente avaliados no mesmo momento, ou seja, na coleta ou na recoleta.  
+Coluna: grupo5 - Descrição: grupo 5 - Conjunto de crianças que possuem os parâmetros finais proteína C Reativa (PCR) e vitamina A, sendo obrigatoriamente avaliados no mesmo momento, ou seja, na coleta ou na recoleta.
+Coluna: grupo6 - Descrição: grupo 6 - Conjunto de crianças que possuem os parâmetros finais proteína C Reativa (PCR) e selênio, sendo obrigatoriamente avaliados no mesmo momento, ou seja, na coleta ou na recoleta.
+Coluna: grupo7 - Descrição: grupo 7 - Conjunto de crianças que possuem os parâmetros finais ácido fólico e vitamina B12 sendo obrigatoriamente avaliados no mesmo momento, ou seja, na coleta ou na recoleta.  
+Coluna: grupo8 - Descrição: grupo 8 - Conjunto de crianças que possuem os parâmetros finais proteína C reativa (PCR), zinco, selênio, vitamina A e vitamina E sendo obrigatoriamente avaliados no mesmo momento, ou seja, na coleta ou na recoleta. 
+Coluna: grupo9a - Descrição: grupo 9a - Conjunto de crianças que possuem os 12 parâmetros finais: hemograma, ácido fólico, ferritina, vitamina B12, vitamina D, vitamina A, B1, B6, E, zinco e selênio, sendo obrigatoriamente todos realizados no mesmo momento, ou seja, na coleta ou na recoleta.  
+Coluna: grupo9b - Descrição: grupo 9b - Conjunto de crianças que possuem os 12 parâmetros finais: hemograma, ácido fólico, ferritina, vitamina B12, vitamina D, vitamina A, B1, B6, E, zinco e selênio.
+Coluna: h01_semanas_gravidez - Descrição: h01_semanas_gravidez - Com quantas semanas de gravidez a criança nasceu
+Coluna: h02_peso - Descrição: h02_peso - Peso ao nascer (em gramas) da criança
+Coluna: h03_altura - Descrição: h03_altura - Com quantos centímetros a criança nasceu
+Coluna: h04_parto - Descrição: h04_parto - Tipo de parto da criança
+Coluna: h05_chupeta_usou - Descrição: h05_chupeta_usou - Desde o nascimento da criança até hoje, ele(ela)
+Coluna: h10_consulta - Descrição: h10_consulta - Onde costuma levar a criança para consulta médica com mais frequência
+Coluna: h10b_sindrome_de_down - Descrição: h10b_sindrome_de_down - Algum médico já falou que a criança tem síndrome de Down, fibrose cística, fenilcetonúria ou autismo
+Coluna: h10b1_sindrome_nao - Descrição: h10b1_sindrome_nao 
+Coluna: h10b2_sindrome_down - Descrição: h10b2_sindrome_down 
+Coluna: h10b3_sindrome_fibrose - Descrição: h10b3_sindrome_fibrose  
+Coluna: h10b4_sindrome_fenilcetonuria - Descrição: h10b4_sindrome_fenilcetonuria
+Coluna: h10b5_sindrome_autismo - Descrição: h10b5_sindrome_autismo  
+Coluna: h10b9_sindrome_nao_sabe - Descrição: h10b9_sindrome_nao_sabe  
+Coluna: h11_alergia - Descrição: h11_alergia - Algum médico já falou que a criança tinha ou tem alergia a algum alimento
+Coluna: h13_diarreia - Descrição: h13_diarreia  - A criança está ou esteve com diarreia nos últimos 15 dias
+Coluna: h14_tosse - Descrição: h14_tosse - A criança está ou esteve com tosse nos últimos 15 dias
+Coluna: h15_respiracao - Descrição: h15_respiracao - A criança está ou esteve com respiração difícil nos últimos 15 dias
+Coluna: h16_canseira - Descrição: h16_canseira - A criança está ou esteve com canseira, falta de ar nos últimos 15 dias
+Coluna: h17_nariz - Descrição: h17_nariz - A criança está ou esteve com nariz entupido nos últimos 15 dias
+Coluna: h18_ronqueira - Descrição: h18_ronqueira - A criança está ou esteve com ronqueira ou catarro nos últimos 15 dias
+Coluna: h19_febre - Descrição: h19_febre - A criança está ou esteve com febre nos últimos 15 dias
+Coluna: h20_outro_problema - Descrição: h20_outro_problema - A criança tem ou teve algum outro problema de saúde nos últimos 15 dias, exceto diarreia, tosse, respiração difícil, canseira, falta de ar, nariz entupido, ronqueira ou catarro, e febre
+Coluna: h21_internado - Descrição: h21_internado - A criança já foi internado(a) alguma vez desde que nasceu
+Coluna: h211_internado_respiratoria - Descrição: h211_internado_respiratoria
+Coluna: h212_internado_intestinais - Descrição:  h212_internado_intestinais 
+Coluna: h213_internado_acidente - Descrição: h213_internado_acidente 
+Coluna: h214_internado_alergias - Descrição: h214_internado_alergias
+Coluna: h215_internado_outras - Descrição: h215_internado_outras
+Coluna: h216_internado_nao - Descrição: h216_internado_nao
+Coluna: h219_internado_nao_sabe - Descrição: h219_internado_nao_sabe
+Coluna: i000b_data_do_dia - Descrição: i000b_data_do_dia - Data de aplicação do bloco I
+Coluna: i000c_idade_em_meses - Descrição: i000c_idade_em_meses - Idade da criança em meses, recalculada
+Coluna: i000d_data_ajustada - Descrição: i000d_data_ajustada - Data de nascimento ajustada
+Coluna: i000e_semanas_gravidez - Descrição: i000e_semanas_gravidez - Com quantas semanas nasceu
+Coluna: i993_faltou_alguma_refeicao - Descrição: i993_faltou_alguma_refeicao - Teve alguma refeição que você não conseguiu informar os alimentos e quantidades 
+Coluna: idade_anos_comp - Descrição: idade_anos_comp - idade em anos completos
+Coluna: j03_cor - Descrição: j03_cor - Cor ou raça da mãe/responsável 
+Coluna: j04_vive - Descrição: j04_vive - A mãe/responsável vive com companheiro(a) 
+Coluna: j05_religiao - Descrição: j05_religiao - Religião ou culto da mãe/responsável 
+Coluna: j0501_rel_catolica - Descrição: j0501_rel_catolica - Religião ou culto da mãe/ responsável
+Coluna: j0502_rel_evangelica_tradicional - Descrição: j0502_rel_evangelica_tradicional - Religião ou culto da mãe/ responsável
+Coluna: j0503_rel_evangelica_pentecostal - Descrição: j0503_rel_evangelica_pentecostal - Religião ou culto da mãe/ responsável
+Coluna: j0504_rel_espirita_kardecista - Descrição: j0504_rel_espirita_kardecista - Religião ou culto da mãe/ responsável
+Coluna: j0505_rel_afro_brasileira - Descrição: j0505_rel_afro_brasileira - Religião ou culto da mãe/ responsável
+Coluna: j0506_rel_protestante_historica - Descrição: j0506_rel_protestante_historica - Religião ou culto da mãe/ responsável
+Coluna: j0507_rel_budista - Descrição: j0507_rel_budista - Religião ou culto da mãe/ responsável
+Coluna: j0508_rel_sem_religiao - Descrição: j0508_rel_sem_religiao - Religião ou culto da mãe/ responsável
+Coluna: j0509_rel_outra_religiao - Descrição: j0509_rel_outra_religiao - Religião ou culto da mãe/ responsável
+Coluna: j0510_rel_ns_nqr - Descrição: j0510_rel_ns_nqr - Religião ou culto da mãe/ responsável
+Coluna: j06_ocupacao - Descrição: j06_ocupacao - Principal situação de emprego atual da mãe/responsável 
+Coluna: j08_ler - Descrição: j08_ler - A mãe/responsável sabe ler e escrever                
+Coluna: j09_frequenta - Descrição: j09_frequenta - A mãe/responsável frequenta ou já frequentou a escola
+Coluna: j10_serie - Descrição: j10_serie - Última série/ano que a mãe/responsável completou
+Coluna: k01_gestacoes - Descrição: k01_gestacoes - Quantas gestações você teve
+Coluna: k02_filhos_vivos - Descrição: k02_filhos_vivos - Quantos filhos nasceram vivos? 
+Coluna: k03_prenatal - Descrição: k03_prenatal - Fez o pré-natal da criança
+Coluna: k04_prenatal_semanas - Descrição: k04_prenatal_semanas - Com quantas semanas de gravidez você iniciou o pré-natal da criança
+Coluna: k05_prenatal_consultas - Descrição: k05_prenatal_consultas - Quantas consultas de pré-natal teve durante a gravidez da criança
+Coluna: k06_peso_engravidar - Descrição: k06_peso_engravidar - Qual era o seu peso antes de engravidar da criança
+Coluna: k07_peso_final - Descrição: k07_peso_final - Qual era o seu peso antes do parto (ao final da gestação) da criança
+Coluna: k08_quilos - Descrição: k08_quilos - Quantos quilos você ganhou na gestação da criança
+Coluna: k11_amamentou - Descrição: k11_amamentou - Amamentou alguma vez  a criança
+Coluna: k12_tempo - Descrição: k12_tempo - Quanto tempo depois do nascimento a criança foi colocada no peito pela primeira vez para mamar
+Coluna: k13_tempo_medida - Descrição: k13_tempo_medida - Horas ou dias
+Coluna: k14_ainda - Descrição: k14_ainda - Você ainda está amamentando a criança
+Coluna: k15_recebeu - Descrição: k15_recebeu - Durante sua permanência na maternidade a criança recebeu algum outro leite que não fosse o leite de peito
+Coluna: k16_liquido - Descrição: k16_liquido - Nos primeiros dias após o parto, e antes que o seu leite estivesse descendo, foi dado algum outro líquido para a criança beber que não fosse leite materno
+Coluna: k18_somente - Descrição: k18_somente - Durante quanto tempo deu somente leite do peito para a criança, sem água, chá, suco ou outros alimentos
+Coluna: k20_doou - Descrição: k20_doou - Desde que amamenta a criança doou o seu leite a algum banco de leite humano ou posto de coleta de leite humano
+Coluna: k21_recebeu - Descrição: k21_recebeu - Desde que amamenta a criança alguma vez recebeu leite de um banco de leite humano
+Coluna: k22_amamentou - Descrição: k22_amamentou - Desde que amamenta a criança você amamentou o filho de outra mulher
+Coluna: k23_deixou - Descrição: k23_deixou - Desde que amamenta a criança deixou seu filho ser amamentado por outra mulher
+Coluna: k24_utilizou - Descrição: k24_utilizou - Desde que amamenta a criança utilizou
+Coluna: k241_utilizou_concha - Descrição: k241_utilizou_concha 
+Coluna: k242_utilizou_protetor - Descrição: k242_utilizou_protetor 
+Coluna: k243_utilizou_bico - Descrição: k243_utilizou_bico 
+Coluna: k244_utilizou_bomba - Descrição: k244_utilizou_bomba 
+Coluna: k245_utilizou_mamadeira - Descrição: k245_utilizou_mamadeira 
+Coluna: k246_utilizou_sondinha - Descrição: k246_utilizou_sondinha
+Coluna: k247_utilizou_copo - Descrição: k247_utilizou_copo 
+Coluna: k248_utilizou_nao - Descrição: k248_utilizou_nao
+Coluna: k249_utilizou_nao_sabe - Descrição:  k249_utilizou_nao_sabe
+Coluna: k25_mamadeira - Descrição: k25_mamadeira - A criança usa ou já usou mamadeira
+Coluna: k28_aleitamento - Descrição: k28_aleitamento - Você acessa ou acessou a internet para buscar informações sobre aleitamento materno
+Coluna: k29_alimentacao - Descrição: k29_alimentacao - Você acessa a internet para buscar informações sobre alimentação infantil
+Coluna: l01_morador_alim_acabassem - Descrição: l01_morador_alim_acabassem - EBIA_Os moradores tiveram a preocupação de que os alimentos acabassem antes de poderem comprar ou receber mais comida
+Coluna: l02_morador_alim_acabaram - Descrição: l02_morador_alim_acabaram - EBIA_Os alimentos acabaram antes que os moradores tivessem dinheiro para comprar mais comida
+Coluna: l03_morador_saudavel - Descrição: l03_morador_saudavel - EBIA_Os moradores ficaram sem dinheiro para ter uma alimentação saudável e variada
+Coluna: l04_morador_insuficiente - Descrição: l04_morador_insuficiente - EBIA_Os moradores comeram apenas alguns alimentos que ainda tinham porque o dinheiro acabou
+Coluna: l05_adulto_saltou_refeicao - Descrição: l05_adulto_saltou_refeicao -  EBIA_O respondente ou algum adulto da casa deixou de fazer alguma refeição porque não havia dinheiro para comprar comida
+Coluna: l06_adulto_comeu_menos - Descrição: l06_adulto_comeu_menos - EBIA_O respondente ou algum adulto da casa, alguma vez, comeu menos do que achou que devia porque não havia dinheiro para comprar comida
+Coluna: l07_adulto_sentiu_fome - Descrição: l07_adulto_sentiu_fome - EBIA_O respondente ou algum adulto da casa, alguma vez, sentiu fome, mas não comeu porque não havia dinheiro para comprar comida
+Coluna: l08_adulto_sem_comer - Descrição: l08_adulto_sem_comer - EBIA_O respondente ou algum adulto da casa, alguma vez, fez apenas uma refeição ao dia ou ficou um dia inteiro sem comer porque não havia dinheiro para comprar a comida
+Coluna: l09_menos18_saudavel - Descrição: l09_menos18_saudavel - EBIA_Algum morador com menos de 18 anos de idade, alguma vez, deixou de ter uma alimentação saudável e variada porque não havia dinheiro para comprar comida
+Coluna: l10_menos18_insuficiente - Descrição: l10_menos18_insuficiente - EBIA_Algum morador com menos de 18 anos, alguma vez, não comeu quantidade suficiente de comida porque não havia dinheiro para comprar comida
+Coluna: l11_menos18_diminuiu - Descrição: l11_menos18_diminuiu -  EBIA_Algum morador com menos de 18 anos diminuiu a quantidade de alimentos das refeições porque não havia dinheiro para comprar a comida
+Coluna: l12_menos18_saltou_refeicao - Descrição: l12_menos18_saltou_refeicao - EBIA_Algum morador com menos de 18 anos, deixou de fazer alguma refeição, porque não havia dinheiro para comprar a comida
+Coluna: l13_menos18_sentiu_fome - Descrição: l13_menos18_sentiu_fome - EBIA_Algum morador com menos de 18 anos sentiu fome, mas não comeu porque não havia dinheiro para comprar mais comida
+Coluna: l14_menos18_sem_comer - Descrição: l14_menos18_sem_comer - EBIA_ Algum morador com menos de 18 anos fez apenas uma refeição ao dia ou ficou sem comer por um dia inteiro porque não havia dinheiro para comprar comida
+Coluna: m01_costuma_cozinhar - Descrição: m01_costuma_cozinhar - Nessa casa se costuma cozinhar
+Coluna: m02_quem_cozinha - Descrição: m02_quem_cozinha - Quem cozinha em casa na maioria das vezes?
+Coluna: m03_alimentos_basicos - Descrição: m03_alimentos_basicos - Quando cozinha em casa, você utiliza principalmente alimentos básicos, por exemplo: arroz, feijão, legumes, verduras, carnes, ovos, temperos naturais?
+Coluna: m04_confiante - Descrição: m04_confiante - Você se sente confiante para preparar refeições utilizando principalmente alimentos básicos, por exemplo: arroz, feijão, legumes, verduras, carnes, ovos?
+Coluna: m05_organiza - Descrição: m05_organiza - Você se organiza para não faltar alimentos básicos em casa? (LER)
+Coluna: m06_facilidade - Descrição: m06_facilidade - Você tem facilidade em preparar refeições utilizando os alimentos básicos que vocês têm em casa, por exemplo: arroz, feijão, legumes, verduras, carnes, ovos
+Coluna: m07_sabe_basico - Descrição: m07_sabe_basico - Você acha que sabe o básico para cozinhar em casa, por exemplo: limpar, descascar, cortar, picar e cozinhar alimentos
+Coluna: m08_adiantar_etapas - Descrição:  m08_adiantar_etapas - Você costuma adiantar etapas de preparação da refeição, por exemplo: manter verduras/folhas já lavadas na geladeira, deixar carnes picadas ou temperadas na geladeira, deixar o alho descascado e amassado, deixar feijão pronto na geladeira ou no congelador
+Coluna: m09_atividades_divididas - Descrição: m09_atividades_divididas - As atividades da cozinha, como por exemplo: picar alimentos, cozinhar e lavar louças, são divididas entre os moradores da sua casa ou com outra pessoa
+Coluna: m11_quem_decide - Descrição: m11_quem_decide - Na sua casa, quem geralmente decide sobre a compra de alimentos
+Coluna: m12_despesas - Descrição: m12_despesas - Quem geralmente decide sobre as outras despesas importantes da sua casa?
+Coluna: n01_frutas - Descrição: n01_frutas - Com que frequência esse alimento esteve disponível na casa do respondente nos últimos 30 dias
+Coluna: n02_legumes - Descrição: n02_legumes - Com que frequência esse alimento estive disponível na casa do respondente nos últimos 30 dias 
+Coluna: n03_verduras - Descrição: n03_verduras - Com que frequência esse alimento estive disponível na casa do respondente nos últimos 30 dias 
+Coluna: n04_feijao - Descrição: n04_feijao - Com que frequência esse alimento estive disponível na casa do respondente nos últimos 30 dias
+Coluna: n05_suco - Descrição: n05_suco -  Com que frequência esse alimento estive disponível na casa do respondente nos últimos 30 dias
+Coluna: n06_refrigerantes - Descrição: n06_refrigerantes - Com que frequência esse alimento estive disponível na casa do respondente nos últimos 30 dias
+Coluna: n07_biscoitos - Descrição: n07_biscoitos - Com que frequência esse alimento estive disponível na casa do respondente nos últimos 30 dias
+Coluna: n08_salgadinhos - Descrição: n08_salgadinhos -  Com que frequência esse alimento estive disponível na casa do respondente nos últimos 30 dias
+Coluna: n09_balas - Descrição: n09_balas -  Com que frequência esse alimento estive disponível na casa do respondente nos últimos 30 dias
+Coluna: o01_frutas_comprar - Descrição: o01_frutas_comprar - É fácil comprar frutas, legumes e verduras no seu bairro
+Coluna: o02_frutas_qualidade - Descrição: o02_frutas_qualidade - As frutas, legumes e verduras são de boa qualidade no seu bairro
+Coluna: o03_frutas_variedade - Descrição:  o03_frutas_variedade - Existe uma grande variedade de frutas, legumes e verduras no seu bairro.
+Coluna: o04_frutas_baratas - Descrição: o04_frutas_baratas - Frutas, legumes e verduras são baratos no seu bairro.
+Coluna: o05_refrigerantes_comprar - Descrição: o05_refrigerantes_comprar - É fácil comprar refrigerantes; biscoitos; salgadinhos de pacote; balas e outras guloseimas no seu bairro
+Coluna: o06_refrigerantes_variedade - Descrição: o06_refrigerantes_variedade - Existe uma grande variedade de refrigerantes; biscoitos; salgadinhos de pacote; balas e outras guloseimas no seu bairro
+Coluna: o07_refrigerantes_baratos - Descrição: o07_refrigerantes_baratos - Refrigerantes; biscoitos; salgadinhos de pacote; balas e outras guloseimas são baratos no seu bairro
+Coluna: p01_respondente - Descrição: p01_respondente - identificação do respondente do bloco
+Coluna: p02_tipo_de_domicilio - Descrição: p02_tipo_de_domicilio - Tipo de domicílio 
+Coluna: p03_ocupacao - Descrição: p03_ocupacao - Tipo de ocupação do domicílio 
+Coluna: p05_comodos - Descrição: p05_comodos - Quantos cômodos existem no domicílio 
+Coluna: p06_cozinha - Descrição: p06_cozinha - O domicílio tem cozinha
+Coluna: p07_dormitorios - Descrição: p07_dormitorios - Quantos cômodos servem como dormitório para os moradores
+Coluna: p08_banheiros_exclusivo - Descrição: p08_banheiros_exclusivo - Quantos banheiros de uso exclusivo dos moradores existem no domicílio  
+Coluna: p09_banheiros_chuveiro - Descrição: p09_banheiros_chuveiro - Quantos banheiros com chuveiro (ou banheira) e vaso sanitário (ou privada)?
+Coluna: p10_esgoto - Descrição: p10_esgoto - O esgoto do(s) banheiro(s) ou sanitário(s) é lançado (jogado) em: (LER)
+Coluna: p11_agua - Descrição: p11_agua - Principal forma de abastecimento de água do domicílio (LER)
+Coluna: p12_lixo - Descrição: p12_lixo - Principal forma de destino dado ao lixo
+Coluna: p13_energia_eletrica - Descrição: p13_energia_eletrica - Origem da energia elétrica utilizada no domicílio
+Coluna: peso_crianca - Descrição: peso_crianca - Peso básico da criança ou mãe ou domicílio não calibrado
+Coluna: peso_crianca_calib - Descrição: peso_crianca_calib - Peso básico da criança ou mãe ou domicílio calibrado
+Coluna: peso_crianca_setor - Descrição: peso_crianca_setor - Peso básico das crianças do banco no setor
+Coluna: peso_crianca_y_10 - Descrição: peso_crianca - Peso básico das crianças do banco 10 de sangue 
+Coluna: peso_crianca_y_11 - Descrição: peso_crianca - Peso básico das crianças do banco 11 de sangue 
+Coluna: peso_crianca_y_12 - Descrição: peso_crianca - Peso básico das crianças do banco 12 de sangue 
+Coluna: peso_crianca_y_13 - Descrição: peso_crianca - Peso básico das crianças do banco 13 de sangue 
+Coluna: peso_crianca_y_14 - Descrição: peso_crianca - Peso básico das crianças do banco 14 de sangue 
+Coluna: peso_crianca_y_15 - Descrição: peso_crianca - Peso básico das crianças do banco 15 de sangue 
+Coluna: peso_crianca_y_16 - Descrição: peso_crianca - Peso básico das crianças do banco 16 de sangue 
+Coluna: peso_crianca_y_17 - Descrição: peso_crianca - Peso básico das crianças do banco 17 de sangue 
+Coluna: peso_crianca_y_18 - Descrição: peso_crianca - Peso básico das crianças do banco 18 de sangue 
+Coluna: peso_crianca_y_19 - Descrição: peso_crianca - Peso básico das crianças do banco 19 de sangue 
+Coluna: peso_crianca_y_1a - Descrição: peso_crianca - Peso básico das crianças do banco 1a de sangue 
+Coluna: peso_crianca_y_1b - Descrição: peso_crianca - Peso básico das crianças do banco 1b de sangue 
+Coluna: peso_crianca_y_1c - Descrição: peso_crianca - Peso básico das crianças do banco 1c de sangue 
+Coluna: peso_crianca_y_2 - Descrição: peso_crianca - Peso básico das crianças do banco 2 de sangue 
+Coluna: peso_crianca_y_20 - Descrição: peso_crianca - Peso básico das crianças do banco 20 de sangue 
+Coluna: peso_crianca_y_21 - Descrição: peso_crianca - Peso básico das crianças do banco 21 de sangue 
+Coluna: peso_crianca_y_22 - Descrição: peso_crianca - Peso básico das crianças do banco 22 de sangue 
+Coluna: peso_crianca_y_3 - Descrição: peso_crianca - Peso básico das crianças do banco 3 de sangue 
+Coluna: peso_crianca_y_4 - Descrição: peso_crianca - Peso básico das crianças do banco 4 de sangue 
+Coluna: peso_crianca_y_5 - Descrição: peso_crianca - Peso básico das crianças do banco 5 de sangue 
+Coluna: peso_crianca_y_6 - Descrição: peso_crianca - Peso básico das crianças do banco 6 de sangue 
+Coluna: peso_crianca_y_7 - Descrição: peso_crianca - Peso básico das crianças do banco 7 de sangue 
+Coluna: peso_crianca_y_8 - Descrição: peso_crianca - Peso básico das crianças do banco 8 de sangue 
+Coluna: peso_crianca_y_9a - Descrição: peso_crianca - Peso básico das crianças do banco 9a de sangue 
+Coluna: peso_crianca_y_9b - Descrição: peso_crianca - Peso básico das crianças do banco 9b de sangue 
+Coluna: peso_setor_ajuste1 - Descrição: peso_setor_ajuste1  -  Peso básico, ajustado para não resposta, do setor em que o domicílio foi selecionado / entrevistado
+Coluna: posestrato - Descrição: Contagem de subgrupos para pós estratificação
+Coluna: q01_recebe_beneficio - Descrição: q01_recebe_beneficio - Alguém do domicilio recebe benefício(s) do governo 
+Coluna: q06_renda - Descrição: q06_renda - Renda mensal do domicílio 
+Coluna: q07_renda_faixa - Descrição: q07_renda_faixa - Valor da renda do domicílio em faixas de renda
+Coluna: r01_televisao - Descrição: r01_televisao - Quantos aparelhos de televisão têm neste domicílio
+Coluna: r02_automoveis - Descrição: r02_automoveis - Quantos automóveis tem neste domicílio
+Coluna: r03_radio - Descrição: r03_radio - Você(s) têm rádio no domicílio
+Coluna: r04_geladeira - Descrição: r04_geladeira - Você(s) têm geladeira ou freezer no domicílio
+Coluna: r05_vcr - Descrição: r05_vcr - Você(s) têm leitor de mídias (VCR, DVD, BlueRay, ChromeCast/Apple TV) no domicílio
+Coluna: r06_lavadora - Descrição: r06_lavadora - Você(s) têm máquina de lavar roupa no domicílio
+Coluna: r07_micro_ondas - Descrição: r07_micro_ondas  - Você(s) têm forno de micro-ondas no domicílio
+Coluna: r08_telefone_fixo - Descrição: r08_telefone_fixo - Você(s) têm telefone fixo (convencional) no domicílio
+Coluna: r09_microcomputador - Descrição: r09_microcomputador - Você(s) têm microcomputador/tablet/notebook no domicílio
+Coluna: r10_ar_condicionado - Descrição: r10_ar_condicionado - Você(s) têm aparelho de ar condicionado no domicílio?
+Coluna: r11_tv_a_cabo - Descrição: r11_tv_a_cabo - Você(s) têm TV a cabo ou TV por assinatura no domicílio
+Coluna: r12_internet_domicilio - Descrição: r12_internet_domicilio - Você(s) têm acesso à internet no domicílio (inclusive rede sem fio)
+Coluna: r13_internet_celular - Descrição: r13_internet_celular - Você(s) têm acesso à internet no celular
+Coluna: r14_celular - Descrição: r14_celular - Qual o tipo de plano do seu celular?
+Coluna: s00c_data_peso - Descrição: s00c_data_peso - Data de realização da medida do peso
+Coluna: s00d_idade_peso - Descrição: s00d_idade_peso - Idade em dias da criança no dia da medida 1 do peso
+Coluna: s00e_data_altura - Descrição: s00e_data_altura - Data de realização da medida da altura
+Coluna: s00f_idade_altura - Descrição: s00f_idade_altura - Idade em dias da criança no dia da medida da altura
+Coluna: s01_foi_pesada - Descrição: s01_foi_pesada - A criança foi pesada
+Coluna: s02_peso_medida1 - Descrição: s02_peso_medida1  - Medida 1 do peso da criança (kg)
+Coluna: s02a_medida2_realizada - Descrição: s02a_medida2_realizada - A segunda medida do peso de “nome da criança” foi realizada?
+Coluna: s03_peso_medida2 - Descrição: s03_peso_medida2  - Medida 2 do peso da criança (kg)
+Coluna: s04_peso_padrao - Descrição: s04_peso_padrao - O peso da criança foi medido de forma padronizada
+Coluna: s06_foi_medida - Descrição: s06_foi_medida - A altura/comprimento da criança foi medida
+Coluna: s07_altura_medida1 - Descrição: s07_altura_medida1 - Medida 1 da altura/comprimento da criança (cm)
+Coluna: s07a_altura2_realizada - Descrição: s07a_altura2_realizada - A segunda medida da altura/comprimento da criança foi realizada
+Coluna: s08_altura_medida2 - Descrição: s08_altura_medida2 - Medida 2 da altura/comprimento da criança(cm)
+Coluna: s09_altura_feita_corrigida - Descrição: s09_altura_feita_corrigida -  Como foi feita a medida da altura da criança
+Coluna: s10_altura_padrao - Descrição: s10_altura_padrao - A medida da altura/comprimento da criança foi feita de forma padronizada
+Coluna: s29a_medida1_peso_refeita - Descrição: s29a_medida1_peso_refeita 
+Coluna: s29b_medida2_peso_refeita - Descrição: s29b_medida2_peso_refeita 
+Coluna: s39a_medida1_altura_refeita - Descrição: s39a_medida1_altura_refeita 
+Coluna: s39b_medida2_altura_refeita - Descrição: s39b_medida2_altura_refeita 
+Coluna: setor_anon - Descrição: setor_anon - Setor censitário
+Coluna: t01_foi_pesada - Descrição: t01_foi_pesada - A mãe foi pesada?
+Coluna: t02_peso_medida1 - Descrição: t02_peso_medida1 - Medida 1 de peso da mãe (kg)
+Coluna: t03_peso_medida2 - Descrição: t03_peso_medida2 - Medida 2 de peso da mãe (kg)
+Coluna: t03a_peso_padrao - Descrição: t03a_peso_padrao - A medida do peso da mãe foi feita de forma padronizada
+Coluna: t04_foi_medida - Descrição: t04_foi_medida - A altura da mãe foi medida
+Coluna: t05_altura_medida1 - Descrição: t05_altura_medida1 - Medida 1 da altura/comprimento da mãe (cm)
+Coluna: t06_altura_medida2 - Descrição: t06_altura_medida2 - Medida 2 da altura/comprimento da mãe (cm)
+Coluna: t06a_altura_padrao - Descrição: t06a_altura_padrao - A medida da altura da mãe foi feita de forma padronizada
+Coluna: total_12p - Descrição: total_12p - Total de parâmetros entre os 12 prioritários 
+Coluna: x06_total_pessoas - Descrição: x06_total_pessoas - Total de moradores no domicílio
+Coluna: x07_total_criancas - Descrição: x07_total_criancas - Total de crianças moradoras no domicílio
+Coluna: x08_total_maes_resp - Descrição: x08_total_maes_resp - Total de mães ou responsáveis moradores no domicílio
+Coluna: id_upa_anon - Descrição: id_upa_anon - Código de identificação da unidade primaria de amostragem
+Coluna: vd_bbb07_mae_resp1 - Descrição: vd_bbb07_mae_resp1 - Identificação de mãe ou responsável cujos dados estão na linha da criança
+Coluna: vd_ien_escore - Descrição: ien_escore - Escore do Indicador Econômico Nacional (IEN)
+Coluna: vd_ien_tercos - Descrição: ien_tercos - Escore do Indicador Econômico Nacional (IEN)
+Coluna: vd_ien_quartos - Descrição: ien_quartos - Escore do Indicador Econômico Nacional (IEN)
+Coluna: vd_ien_quintos - Descrição: ien_quintos - Escore do Indicador Econômico Nacional (IEN)
+Coluna: vd_ien_decimos - Descrição: ien_decimos - Escore do Indicador Econômico Nacional (IEN)
+Coluna: vd_dummy_domic_ien - Descrição: dummy_domic_ien - Variável indicadora da maior escolaridade selecionada no domicílio
+Coluna: vd_ebia_escore - Descrição: vd_ebia_escore - Escore da Escala Brasileira de Insegurança Alimentar no domicílio 
+Coluna: vd_ebia_categ - Descrição: vd_ebia_categ - Classificação da Escala Brasileira de Insegurança Alimentar no domicílio 
+Coluna: vd_dummy_domic_ebia - Descrição: vd_dummy_domic_ebia - Variável indicadora da unidade familiar selecionada para classificar o domicílio na EBIA
+Coluna: vd_suplemento - Descrição: Uso de suplementos de micronutrientes atual ou nos últimos 6 meses
+Coluna: vd_suplemento_sus - Descrição: Uso de suplementos de micronutrientes atual ou nos últimos 6 meses adquirido no Serviço público de saúde 
+Coluna: vd_suplemento_comercial - Descrição: Uso de suplementos de micronutrientes atual ou nos últimos 6 meses não adquirido no Serviço público de saúde 
+Coluna: vd_num_supl - Descrição: Quantidade de tipos de suplementos usados nos últimos 6 meses
+Coluna: vd_supl1_com_selenio - Descrição: Uso de qualquer suplemento de micronutrientes que contenha selênio  nos últimos 6 meses
+Coluna: vd_supl1_com_molibdenio - Descrição: Uso de qualquer suplemento de micronutrientes que contenha molibdenio nos últimos 6 meses
+Coluna: vd_supl1_com_manganes - Descrição: Uso de qualquer suplemento de micronutrientes que contenha manganês nos últimos 6 meses
+Coluna: vd_supl1_com_magnesio - Descrição: Uso de qualquer suplemento de micronutrientes que contenha magnésio nos últimos 6 meses
+Coluna: vd_supl1_com_fosforo - Descrição: Uso de qualquer suplemento de micronutrientes que contenha fosforo nos últimos 6 meses
+Coluna: vd_supl1_com_iodo - Descrição: Uso de qualquer suplemento de micronutrientes que contenha iodo nos últimos 6 meses
+Coluna: vd_supl1_com_cobre - Descrição: Uso de qualquer suplemento de micronutrientes que contenha cobre nos últimos 6 meses
+Coluna: vd_supl1_com_cromo - Descrição: Uso de qualquer suplemento de micronutrientes que contenha cromo nos últimos 6 meses
+Coluna: vd_supl1_com_ferro - Descrição: Uso de qualquer suplemento de micronutrientes que contenha ferro nos últimos 6 meses
+Coluna: vd_supl1_somente_ferro - Descrição: Uso de qualquer suplemento de micronutrientes que contenha somente ferro nos últimos 6 meses
+Coluna: vd_supl1_exclusivamente_ferro - Descrição: Uso de apenas um suplemento de micronutrientes que contenha somente ferro nos últimos 6 meses
+Coluna: vd_supl1_com_ferro_indep_nutrisus - Descrição: Uso de qualquer suplemento de micronutrientes que contenha ferro independente do uso de NUTRISUS nos últimos 6 meses
+Coluna: vd_supl1_ferro_sus - Descrição: Uso de qualquer suplemento de micronutrientes que contenha ferro adquirido no Serviço público de saúde  nos últimos 6 meses
+Coluna: vd_supl1_ferro_nao_sus - Descrição: Uso de qualquer suplemento de micronutrientes que contenha ferro não adquirido no Serviço público de saúde  nos últimos 6 meses
+Coluna: vd_supl1_com_calcio - Descrição: Uso de qualquer suplemento de micronutrientes que contenha calcio nos últimos 6 meses
+Coluna: vd_supl1_com_zinco - Descrição: Uso de qualquer suplemento de micronutrientes que contenha zinco nos últimos 6 meses
+Coluna: vd_supl1_somente_zinco - Descrição: Uso de qualquer suplemento de micronutrientes que contenha somente zinco nos últimos 6 meses
+Coluna: vd_supl1_com_vita - Descrição: Uso de qualquer suplemento de micronutrientes que contenha Vit A nos últimos 6 meses
+Coluna: vd_supl1_somente_vita - Descrição: Uso de qualquer suplemento de micronutrientes que contenha somente Vit A nos últimos 6 meses
+Coluna: vd_supl1_exclusivamente_vita - Descrição: Uso de apenas um suplemento de micronutrientes que contenha somente Vit A nos últimos 6 meses
+Coluna: vd_supl1_vita_indep_mega_nutrisus - Descrição: Uso de qualquer suplemento de micronutrientes que contenha ferro independente do uso de megadose de Vit A e NUTRISUS nos últimos 6 meses
+Coluna: vd_supl1_vita_sus - Descrição: Uso de qualquer suplemento de micronutrientes que contenha Vit A adquirido no Serviço público de saúde  nos últimos 6 meses
+Coluna: vd_supl1_vita_nao_sus - Descrição: Uso de qualquer suplemento de micronutrientes que contenha Vit A não adquirido no Serviço público de saúde  nos últimos 6 meses
+Coluna: vd_supl1_com_vitb1 - Descrição: Uso de qualquer suplemento de micronutrientes que contenha Vit B1 nos últimos 6 meses
+Coluna: vd_supl1_com_vitb2 - Descrição: Uso de qualquer suplemento de micronutrientes que contenha Vit B2 nos últimos 6 meses
+Coluna: vd_supl1_com_vitb3 - Descrição: Uso de qualquer suplemento de micronutrientes que contenha Vit B3 nos últimos 6 meses
+Coluna: vd_supl1_com_vitb5 - Descrição: Uso de qualquer suplemento de micronutrientes que contenha Vit B5 nos últimos 6 meses
+Coluna: vd_supl1_com_vitb6 - Descrição: Uso de qualquer suplemento de micronutrientes que contenha Vit B6 nos últimos 6 meses
+Coluna: vd_supl1_com_vitb7 - Descrição: Uso de qualquer suplemento de micronutrientes que contenha Vit B7 nos últimos 6 meses
+Coluna: vd_supl1_com_vitb8 - Descrição: Uso de qualquer suplemento de micronutrientes que contenha Vit B8 nos últimos 6 meses
+Coluna: vd_supl1_com_vitb9 - Descrição: Uso de qualquer suplemento de micronutrientes que contenha Vit B9 nos últimos 6 meses
+Coluna: vd_supl1_com_vitb12 - Descrição: Uso de qualquer suplemento de micronutrientes que contenha Vit B12 nos últimos 6 meses
+Coluna: vd_supl1_com_vitc - Descrição: Uso de qualquer suplemento de micronutrientes que contenha Vit C nos últimos 6 meses
+Coluna: vd_supl1_somente_vitc - Descrição: Uso de qualquer suplemento de micronutrientes que contenha somente Vit C nos últimos 6 meses
+Coluna: vd_supl1_exclusivamente_vitc - Descrição: Uso de apenas um suplemento de micronutrientes que contenha somente Vit C nos últimos 6 meses
+Coluna: vd_supl1_com_vitd - Descrição: Uso de qualquer suplemento de micronutrientes que contenha Vit D nos últimos 6 meses
+Coluna: vd_supl1_somente_vitd - Descrição: Uso de qualquer suplemento de micronutrientes que contenha somente Vit D nos últimos 6 meses
+Coluna: vd_supl1_exclusivamente_vitd - Descrição: Uso de apenas um suplemento de micronutrientes que contenha somente Vit D nos últimos 6 meses
+Coluna: vd_supl1_com_vite - Descrição: Uso de qualquer suplemento de micronutrientes que contenha Vit E nos últimos 6 meses
+Coluna: vd_supl1_com_vitk - Descrição: Uso de qualquer suplemento de micronutrientes que contenha Vit K nos últimos 6 meses
+Coluna: vd_supl1_somente_vitsad - Descrição: Uso de qualquer suplemento de micronutrientes que contenha somente Vit A e Vit D nos últimos 6 meses
+Coluna: vd_supl1_multivitaminico_sem_minerais - Descrição: Uso de qualquer suplemento de micronutrientes que contenha apenas vitaminas nos últimos 6 meses
+Coluna: vd_supl1_multivitaminico_com_minerais - Descrição: Uso de qualquer suplemento de micronutrientes que contenha vitaminas e minerais nos últimos 6 meses
+Coluna: vd_supl1_multi_sem_com_minerais - Descrição: Uso de qualquer suplemento de micronutrientes multivitamínico sem ou com minerais
+Coluna: vd_supl1_bc_cipro - Descrição: Uso de qualquer suplemento de micronutrientes que contenha apenas Vit B e Vit C associada à ciproeptadina nos últimos 6 meses
+Coluna: vd_supl1_com_cipro - Descrição: Uso de qualquer suplemento de micronutrientes que contenha ciproeptadina nos últimos 6 meses
+Coluna: vd_supl1_outros_supl - Descrição: Uso de outros suplementos de micronutrientes não contemplados nas combinações anteriores nos últimos 6 meses
+Coluna: vd_supl1_sobreposicao - Descrição: Uso de mais de um suplementos de micronutrientes em que se sobrepõe pelo menos um nutriente nos últimos 6 meses
+Coluna: vd_supl1_multivitaminico_sem_minerais_abcde - Descrição: Uso de qualquer suplemento de micronutrientes multivitamínico sem minerais que contenha Vit A, Vit B, Vit C, Vit D, Vit E nos últimos 6 meses
+Coluna: vd_supl1_multivitaminico_sem_minerais_ade - Descrição: Uso de qualquer suplemento de micronutrientes multivitamínico sem minerais que contenha Vit A, Vit D, Vit E nos últimos 6 meses
+Coluna: vd_supl1_multivitaminico_sem_minerais_bc - Descrição: Uso de qualquer suplemento de micronutrientes multivitamínico sem minerais que contenha Vit B, Vit C nos últimos 6 meses
+Coluna: vd_supl1_multivitaminico_sem_minerais_b - Descrição: Uso de qualquer suplemento de micronutrientes multivitamínico sem minerais que contenha Vit B nos últimos 6 meses
+Coluna: vd_supl1_multivitaminico_sem_minerais_abcdek - Descrição: Uso de qualquer suplemento de micronutrientes multivitamínico sem minerais que contenha Vit A, Vit B, Vit C, Vit D, Vit E, Vit K nos últimos 6 meses
+Coluna: vd_supl1_multivitaminico_sem_minerais_abcd - Descrição: Uso de qualquer suplemento de micronutrientes multivitamínico sem minerais que contenha Vit A, Vit B, Vit C, Vit D nos últimos 6 meses
+Coluna: vd_supl1_multivitaminico_sem_minerais_outros - Descrição: Uso de qualquer suplemento de micronutrientes multivitamínico sem minerais que contenha outra combinação de vitaminas não contemplado em combinações anteriores nos últimos 6 meses
+Coluna: vd_supl1_multivitaminico_com_minerais_bcferro - Descrição: Uso de qualquer suplemento de micronutrientes multivitamínico com  minerais que contenha Vit B, Vit C, ferro nos últimos 6 meses
+Coluna: vd_zwaz - Descrição: vd_zwaz - Escore z do índice peso/idade da criança
+Coluna: vd_zimc - Descrição: vd_zimc - Escore z do índice imc/idade da criança
+Coluna: vd_zhaz - Descrição: vd_zhaz - Escore z do índice altura/idade da criança
+Coluna: vd_anthro_zwfl - Descrição: vd_anthro_zwfl - Escore z do índice peso/altura da criança
+Coluna: vd_prematura_igb - Descrição: vd_prematura_igb - Crianças prematuras e com idade gestacional (idade desde a concepção, obtida pela soma da idade gestacional ao
+nascimento com a idade em dias pós-natais) entre 189 e 454 dias
+Coluna: vd_imc_mae - Descrição: vd_imc_mae - IMC da mãe adulta (Kg/m)
+Coluna: vd_dummy_gravida - Descrição: vd_dummy_gravida - A mãe estava grávida no dia da coleta
